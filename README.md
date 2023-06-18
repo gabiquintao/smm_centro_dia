@@ -10,7 +10,10 @@
     - [Pré-requisitos](#pré-requisitos)
     - [Clone do Projeto](#clone-do-projeto)
     - [Projeto](#projeto)
-    - [Configuração do Mailtrap](configura
+    - [Configuração do Mailtrap](#configuracao-do-mailtrap)
+- [Utilização](#utilizacao)
+    - [Base de Dados](#base-de-dados)
+    - [Uso](#uso) 
 - [Manual de Uso](#how-to-try-it-out)
 
 ## Introdução
