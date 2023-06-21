@@ -85,6 +85,6 @@ MAIL_FROM_NAME="${APP_NAME}"
 
 ### Uso
 
-Execute o seguintes comandos, **no diretório do projeto**
+Execute os seguintes comandos, **no diretório do projeto**
 - **npm run build** para criar a versão otimizada da aplicação frontend do Laravel
 - **php artisan serve** para iniciar o servidor de desenvolvimento do Laravel
